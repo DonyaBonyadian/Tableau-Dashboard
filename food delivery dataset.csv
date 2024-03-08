@@ -1,0 +1,300 @@
+﻿DateTime,Ordered Food, Price ,Restaurant Name,Packaging Type,Estimated Delivery Time,Favorite,Calories per Meal
+2022-08-01,Margherita Pizza,$12.50 ,Papa's Pizzeria,Eco friendly ,16,No,850
+2022-06-22,Chicken Fried Rice,$15.75 ,Spice Palace,Normal,28,Yes,650
+2022-09-18,BBQ Ribs,$20.00 ,Sakura Sushi,Normal,24,No,720
+2023-11-13,Margherita Pizza,$8.99 ,Green Leaf Grill,Normal,17,Yes,450
+2022-04-15,Chicken Parmesan,$11.25 ,Thai Orchid,Normal,19,No,550
+2022-06-16,Margherita Pizza,$10.99 ,Bella Italia,Normal,27,Yes,750
+2022-01-08,Chicken Caesar Wrap,$18.50 ,Smokey's BBQ,Ecofriendly,16,No,950
+2023-09-13,Beef Stir Fry,$9.25 ,Zen Garden Sushi,Ecofriendly,21,Yes,380
+2022-02-21,Chicken Caesar Salad,$7.99 ,Big Bite Burgers,Normal,19,No,620
+2022-04-09,Beef Stir Fry,$12.00 ,Fresh Greens,Normal,27,No,420
+2023-02-05,Margherita Pizza,$8.00 ,Tequila Bar,Ecofriendly,17,Yes,280
+2022-09-17,Fish Tacos,$14.50 ,Wok This Way,Normal,28,No,850
+2023-11-14,Veggie Wrap,$9.75 ,Crunchy Bites,Normal,18,Yes,520
+2022-06-27,Margherita Pizza,$10.50 ,Pho King,Normal,28,No,380
+2022-06-20,Beef Burrito,$11.99 ,Mario's Pizzeria,Ecofriendly,23,Yes,780
+2022-02-14,Veggie Burger,$9.99 ,Hot Wings Express,Ecofriendly,26,No,690
+2023-04-26,BBQ Ribs,$8.25 ,Falafel Kingdom,Normal,27,Yes,420
+2023-12-15,Fish and Chips,$10.75 ,Burrito Bonanza,Ecofriendly,25,No,720
+2023-12-08,Margherita Pizza,$13.25 ,Oriental Express,Ecofriendly,15,Yes,580
+2022-12-07,Veggie Wrap,$10.99 ,Nonna's Kitchen,Ecofriendly,21,No,800
+2022-07-05,Beef Taco,$9.99 ,Smokey's BBQ,Normal,26,No,680
+2022-11-24,Chicken Caesar Salad,$12.50 ,Wok This Way,Ecofriendly,21,Yes,450
+2023-03-16,Chicken Caesar Salad,$14.75 ,Seafood Shack,Normal,28,No,850
+2022-08-04,BBQ Chicken Wings,$8.25 ,Fresh Greens,Normal,20,Yes,520
+2023-02-20,Cheeseburger,$11.99 ,Mario's Pizzeria,Normal,30,No,780
+2022-10-12,Margherita Pizza,$10.50 ,Burrito Bonanza,Ecofriendly,16,Yes,620
+2023-05-28,Chicken Caesar Salad,$13.99 ,Oriental Express,Ecofriendly,15,No,720
+2023-10-09,Margherita Pizza,$10.99 ,Nonna's Kitchen,Normal,15,Yes,800
+2023-07-01,Chicken Caesar Wrap,$8.50 ,Taco Haven,Normal,21,No,540
+2023-09-06,Chicken Caesar Salad,$9.75 ,Shawarma Express,Normal,15,Yes,680
+2023-08-05,Veggie Wrap,$11.99 ,Bella Italia,Ecofriendly,23,No,750
+2022-06-28,Margherita Pizza,$7.99 ,Crunchy Bites,Ecofriendly,30,Yes,520
+2023-01-23,Margherita Pizza,$22.00 ,Sakura Sushi,Ecofriendly,27,No,720
+2022-05-16,Chicken Shawarma,$16.99 ,Mama Mia's Kitchen,Ecofriendly,28,Yes,890
+2023-02-12,Veggie Sushi Roll,$12.50 ,Thai Orchid,Ecofriendly,22,No,550
+2022-08-14,Chicken Caesar Salad,$10.99 ,Mario's Pizzeria,Ecofriendly,26,Yes,780
+2023-04-08,Veggie Stir Fry,$9.50 ,Green Leaf Grill,Normal,20,No,520
+2023-10-07,Veggie Wrap,$20.50 ,Smokey's BBQ,Ecofriendly,17,Yes,950
+2022-09-25,Chicken Caesar Wrap,$11.75 ,Fresh Greens,Normal,20,No,420
+2023-04-06,Chicken Wings,$14.25 ,Seafood Shack,Ecofriendly,16,Yes,680
+2022-09-17,Margherita Pizza,$36.51 ,Wok This Way,Normal,22,No,619
+2023-03-11,Veggie Wrap,$30.58 ,Bella Italia,Normal,19,No,495
+2022-10-11,Chicken Caesar Salad,$31.20 ,Thai Orchid,Ecofriendly,28,No,507
+2022-08-17,Margherita Pizza,$30.58 ,Falafel Kingdom,Normal,28,No,593
+2023-09-25,Chicken Caesar Salad,$28.96 ,Smokey's BBQ,Normal,23,No,632
+2023-12-04,Margherita Pizza,$34.48 ,Burrito Bonanza,Normal,26,No,508
+2023-06-09,Chicken Fried Rice,$21.54 ,Big Bite Burgers,Normal,28,No,552
+2022-03-20,Beef Stir Fry,$30.82 ,Mario's Pizzeria,Normal,27,No,780
+2022-03-16,BBQ Ribs,$25.74 ,Crunchy Bites,Normal,29,Yes,870
+2023-09-06,Chicken Parmesan,$49.14 ,Mama Mia's Kitchen,Ecofriendly,20,No,513
+2022-10-09,Chicken Caesar Salad,$23.57 ,Sakura Sushi,Normal,17,No,579
+2022-06-09,Margherita Pizza,$15.91 ,Green Leaf Grill,Normal,16,No,625
+2022-09-08,Chicken Caesar Wrap,$20.43 ,Seafood Shack,Normal,30,Yes,660
+2022-04-19,Chicken Caesar Salad,$19.59 ,Nonna's Kitchen,Normal,30,No,525
+2022-05-16,Chicken Wings,$39.71 ,Fresh Greens,Normal,25,Yes,704
+2022-04-08,BBQ Chicken Wings,$23.46 ,Papa's Pizzeria,Ecofriendly,16,Yes,801
+2023-10-22,Margherita Pizza,$28.93 ,Hot Wings Express,Normal,16,Yes,869
+2023-09-26,Margherita Pizza,$33.48 ,Smokey's BBQ,Normal,30,No,823
+2023-05-09,Chicken Caesar Salad,$45.83 ,Shawarma Express,Ecofriendly,22,Yes,643
+2022-08-26,Veggie Wrap,$19.47 ,Tequila Bar,Ecofriendly,17,Yes,862
+2022-02-01,Margherita Pizza,$41.68 ,Zen Garden Sushi,Normal,16,No,587
+2022-09-18,Chicken Caesar Salad,$27.88 ,Wok This Way,Ecofriendly,16,Yes,753
+2022-02-05,Beef Taco,$28.80 ,Thai Orchid,Normal,26,No,813
+2023-03-04,Veggie Burger,$21.97 ,Bella Italia,Ecofriendly,28,No,834
+2022-07-23,Beef Burrito,$42.09 ,Burrito Bonanza,Ecofriendly,26,No,748
+2023-11-15,Chicken Caesar Wrap,$26.48 ,Oriental Express,Ecofriendly,28,Yes,527
+2023-05-20,Margherita Pizza,$19.22 ,Crunchy Bites,Normal,22,Yes,503
+2023-04-06,Fish Tacos,$26.13 ,Smokey's BBQ,Ecofriendly,18,No,472
+2023-02-09,Chicken Fried Rice,$21.84 ,Mario's Pizzeria,Ecofriendly,18,No,648
+2022-07-18,Margherita Pizza,$38.82 ,Fresh Greens,Normal,23,Yes,607
+2022-07-17,Chicken Caesar Wrap,$22.12 ,Falafel Kingdom,Ecofriendly,24,No,647
+2022-07-23,Margherita Pizza,$44.28 ,Seafood Shack,Ecofriendly,26,Yes,833
+2022-09-02,Chicken Caesar Salad,$19.33 ,Nonna's Kitchen,Normal,19,Yes,453
+2023-11-21,Chicken Caesar Salad,$32.83 ,Mama Mia's Kitchen,Normal,22,Yes,784
+2022-12-06,Margherita Pizza,$15.49 ,Sakura Sushi,Normal,27,No,594
+2022-07-11,Veggie Stir Fry,$41.56 ,Green Leaf Grill,Normal,16,Yes,594
+2023-11-21,Margherita Pizza,$49.81 ,Thai Orchid,Ecofriendly,26,No,546
+2023-06-12,BBQ Ribs,$39.40 ,Papa's Pizzeria,Normal,30,Yes,700
+2023-03-03,Margherita Pizza,$22.87 ,Smokey's BBQ,Ecofriendly,21,No,551
+2022-09-05,Chicken Caesar Salad,$44.47 ,Hot Wings Express,Normal,18,No,887
+2023-03-06,BBQ Ribs,$18.51 ,Wok This Way,Normal,15,Yes,759
+2023-07-09,Veggie Wrap,$44.38 ,Burrito Bonanza,Ecofriendly,22,No,709
+2022-05-09,Margherita Pizza,$28.30 ,Crunchy Bites,Ecofriendly,16,No,604
+2023-11-02,Chicken Fried Rice,$34.78 ,Mario's Pizzeria,Ecofriendly,23,Yes,534
+2022-08-19,Margherita Pizza,$22.00 ,Bella Italia,Normal,26,Yes,691
+2022-01-10,Chicken Caesar Salad,$38.28 ,Shawarma Express,Ecofriendly,25,No,497
+2023-03-20,Margherita Pizza,$36.26 ,Fresh Greens,Ecofriendly,27,No,673
+2023-12-22,Chicken Caesar Wrap,$27.99 ,Seafood Shack,Ecofriendly,15,Yes,683
+2022-05-16,Chicken Caesar Wrap,$42.46 ,Nonna's Kitchen,Normal,28,No,512
+2023-04-16,Chicken Caesar Salad,$31.57 ,Oriental Express,Normal,29,No,652
+2023-06-21,Chicken Caesar Salad,$24.99 ,Thai Orchid,Ecofriendly,22,Yes,612
+2023-10-11,Margherita Pizza,$20.47 ,Falafel Kingdom,Normal,15,No,498
+2022-07-18,Chicken Caesar Salad,$29.91 ,Sakura Sushi,Normal,27,Yes,561
+2023-09-17,Margherita Pizza,$35.37 ,Green Leaf Grill,Normal,20,No,519
+2023-11-09,Margherita Pizza,$31.00 ,Smokey's BBQ,Ecofriendly,26,No,629
+2023-11-12,Chicken Caesar Salad,$22.48 ,Papa's Pizzeria,Ecofriendly,20,No,531
+2022-09-27,Chicken Caesar Salad,$37.10 ,Tequila Bar,Ecofriendly,28,Yes,895
+2022-07-25,Margherita Pizza,$45.14 ,Wok This Way,Ecofriendly,29,Yes,717
+2023-09-14,Margherita Pizza,$22.73 ,Big Bite Burgers,Ecofriendly,19,No,699
+2023-01-28,Chicken Caesar Wrap,$27.66 ,Mario's Pizzeria,Normal,21,Yes,755
+2022-01-14,Chicken Caesar Salad,$27.05 ,Crunchy Bites,Ecofriendly,24,No,900
+2023-10-07,BBQ Ribs,$21.84 ,Bella Italia,Normal,18,No,455
+2022-04-10,Chicken Caesar Salad,$46.99 ,Seafood Shack,Normal,28,Yes,707
+2022-07-08,Beef Stir Fry,$35.07 ,Burrito Bonanza,Ecofriendly,29,Yes,726
+2023-04-19,Chicken Fried Rice,$20.80 ,Fresh Greens,Normal,29,No,552
+2022-11-06,Margherita Pizza,$47.29 ,Shawarma Express,Normal,16,No,639
+2022-12-16,Margherita Pizza,$15.48 ,Nonna's Kitchen,Ecofriendly,24,Yes,460
+2022-06-06,Margherita Pizza,$35.17 ,Mama Mia's Kitchen,Normal,30,Yes,783
+2022-04-19,Chicken Fried Rice,$30.56 ,Thai Orchid,Ecofriendly,28,Yes,589
+2023-01-25,Margherita Pizza,$48.92 ,Smokey's BBQ,Normal,25,No,651
+2022-04-10,Chicken Caesar Salad,$37.24 ,Oriental Express,Normal,15,Yes,464
+2023-10-22,Margherita Pizza,$37.95 ,Sakura Sushi,Normal,15,No,689
+2023-01-14,Chicken Caesar Salad,$34.91 ,Green Leaf Grill,Normal,18,Yes,554
+2023-08-20,Margherita Pizza,$44.43 ,Falafel Kingdom,Ecofriendly,27,No,463
+2022-07-05,Margherita Pizza,$36.75 ,Wok This Way,Normal,27,No,670
+2022-02-28,Veggie Wrap,$29.70 ,Papa's Pizzeria,Normal,27,No,704
+2023-04-02,Margherita Pizza,$15.82 ,Crunchy Bites,Ecofriendly,16,No,636
+2023-10-11,Margherita Pizza,$47.19 ,Mario's Pizzeria,Ecofriendly,15,No,474
+2023-07-19,Margherita Pizza,$39.82 ,Hot Wings Express,Normal,22,No,474
+2022-07-16,Chicken Caesar Salad,$16.94 ,Bella Italia,Normal,23,No,617
+2023-04-03,Chicken Caesar Salad,$44.30 ,Big Bite Burgers,Ecofriendly,29,No,742
+2022-07-07,Chicken Fried Rice,$26.32 ,Thai Orchid,Normal,22,Yes,612
+2022-02-13,BBQ Ribs,$19.10 ,Fresh Greens,Ecofriendly,23,No,717
+2022-02-13,Chicken Caesar Salad,$30.67 ,Burrito Bonanza,Ecofriendly,16,Yes,861
+2023-10-22,Beef Stir Fry,$34.53 ,Seafood Shack,Normal,26,No,845
+2023-08-16,Chicken Caesar Salad,$36.14 ,Smokey's BBQ,Normal,17,Yes,659
+2022-10-02,Chicken Caesar Wrap,$18.24 ,Nonna's Kitchen,Normal,16,Yes,496
+2022-12-15,Chicken Caesar Salad,$26.87 ,Shawarma Express,Normal,17,Yes,700
+2022-01-02,Chicken Caesar Salad,$26.72 ,Mama Mia's Kitchen,Normal,30,Yes,593
+2023-10-23,Margherita Pizza,$34.74 ,Wok This Way,Normal,25,Yes,659
+2022-04-28,Chicken Caesar Salad,$33.15 ,Sakura Sushi,Normal,22,No,749
+2022-01-02,Margherita Pizza,$16.23 ,Oriental Express,Normal,22,Yes,471
+2023-05-10,Margherita Pizza,$33.38 ,Green Leaf Grill,Normal,23,Yes,601
+2022-04-05,Chicken Caesar Salad,$16.18 ,Thai Orchid,Normal,24,Yes,872
+2023-05-08,Chicken Fried Rice,$36.39 ,Falafel Kingdom,Ecofriendly,21,No,818
+2022-12-22,Veggie Wrap,$27.64 ,Papa's Pizzeria,Normal,24,No,798
+2022-01-08,Margherita Pizza,$38.83 ,Smokey's BBQ,Ecofriendly,27,No,748
+2022-11-01,Chicken Caesar Salad,$35.50 ,Crunchy Bites,Ecofriendly,30,No,825
+2023-05-02,Margherita Pizza,$24.07 ,Mario's Pizzeria,Ecofriendly,20,Yes,899
+2022-05-16,Chicken Caesar Salad,$19.51 ,Bella Italia,Ecofriendly,27,No,569
+2023-07-17,Chicken Caesar Salad,$26.55 ,Fresh Greens,Ecofriendly,23,Yes,880
+2023-06-27,Margherita Pizza,$27.55 ,Seafood Shack,Normal,17,No,585
+2023-10-18,Veggie Wrap,$42.65 ,Nonna's Kitchen,Normal,24,No,681
+2022-12-09,Chicken Caesar Salad,$15.25 ,Burrito Bonanza,Normal,16,Yes,818
+2022-01-12,Margherita Pizza,$38.79 ,Big Bite Burgers,Normal,26,Yes,693
+2023-11-09,Margherita Pizza,$36.34 ,Shawarma Express,Normal,27,No,892
+2022-11-14,Chicken Caesar Salad,$29.87 ,Thai Orchid,Normal,26,Yes,797
+2022-02-08,Margherita Pizza,$48.78 ,Wok This Way,Normal,19,No,722
+2023-06-08,Margherita Pizza,$49.89 ,Mama Mia's Kitchen,Ecofriendly,15,No,514
+2022-04-11,Chicken Caesar Salad,$32.39 ,Sakura Sushi,Ecofriendly,16,No,695
+2022-05-27,Margherita Pizza,$42.10 ,Green Leaf Grill,Normal,16,Yes,847
+2023-01-03,Chicken Caesar Salad,$30.87 ,Smokey's BBQ,Normal,19,Yes,839
+2022-09-24,Chicken Caesar Wrap,$34.00 ,Falafel Kingdom,Ecofriendly,20,Yes,549
+2023-10-04,Margherita Pizza,$42.55 ,Oriental Express,Normal,18,Yes,470
+2023-03-16,Margherita Pizza,$18.22 ,Papa's Pizzeria,Ecofriendly,18,No,671
+2023-05-23,Chicken Caesar Salad,$17.19 ,Crunchy Bites,Ecofriendly,27,No,610
+2022-03-17,Margherita Pizza,$45.91 ,Mario's Pizzeria,Ecofriendly,24,No,796
+2022-10-10,Margherita Pizza,$32.21 ,Fresh Greens,Ecofriendly,22,Yes,559
+2023-04-07,Chicken Caesar Salad,$17.32 ,Bella Italia,Ecofriendly,27,Yes,784
+2023-04-01,Chicken Caesar Salad,$28.05 ,Seafood Shack,Ecofriendly,19,Yes,830
+2022-10-10,Margherita Pizza,$24.78 ,Nonna's Kitchen,Ecofriendly,15,Yes,779
+2022-02-15,BBQ Ribs,$34.37 ,Burrito Bonanza,Normal,24,Yes,788
+2022-09-08,Margherita Pizza,$38.83 ,Thai Orchid,Ecofriendly,28,No,653
+2022-01-11,Chicken Caesar Salad,$47.45 ,Big Bite Burgers,Ecofriendly,23,No,842
+2022-06-08,Margherita Pizza,$36.61 ,Shawarma Express,Normal,28,Yes,550
+2023-07-23,Margherita Pizza,$32.69 ,Wok This Way,Ecofriendly,26,Yes,680
+2022-03-17,Chicken Caesar Wrap,$33.43 ,Sakura Sushi,Normal,29,Yes,482
+2023-04-22,Margherita Pizza,$21.94 ,Green Leaf Grill,Normal,19,Yes,665
+2023-11-25,Chicken Caesar Salad,$22.28 ,Smokey's BBQ,Normal,15,Yes,570
+2023-07-01,Chicken Caesar Salad,$45.99 ,Mama Mia's Kitchen,Ecofriendly,17,Yes,561
+2023-12-28,Margherita Pizza,$28.41 ,Falafel Kingdom,Ecofriendly,16,Yes,574
+2022-01-25,Margherita Pizza,$23.98 ,Oriental Express,Normal,21,No,866
+2023-02-04,Margherita Pizza,$26.72 ,Crunchy Bites,Ecofriendly,16,Yes,613
+2023-04-26,Veggie Wrap,$45.09 ,Mario's Pizzeria,Normal,28,Yes,569
+2023-04-08,Chicken Caesar Salad,$17.17 ,Fresh Greens,Normal,22,No,524
+2023-09-13,Margherita Pizza,$37.19 ,Seafood Shack,Normal,30,No,529
+2022-06-04,Margherita Pizza,$46.63 ,Bella Italia,Ecofriendly,29,No,863
+2023-04-27,Margherita Pizza,$49.47 ,Nonna's Kitchen,Ecofriendly,27,No,509
+2023-06-20,Chicken Caesar Salad,$36.73 ,Thai Orchid,Normal,27,Yes,607
+2022-03-22,Chicken Caesar Salad,$15.67 ,Papa's Pizzeria,Ecofriendly,15,Yes,562
+2022-10-12,Margherita Pizza,$23.80 ,Big Bite Burgers,Normal,23,Yes,790
+2023-02-18,Chicken Caesar Wrap,$44.42 ,Shawarma Express,Normal,26,Yes,621
+2023-01-05,Margherita Pizza,$29.72 ,Wok This Way,Normal,24,No,874
+2022-06-03,Chicken Caesar Salad,$15.61 ,Sakura Sushi,Ecofriendly,17,Yes,769
+2023-12-09,Chicken Caesar Salad,$22.13 ,Green Leaf Grill,Ecofriendly,16,Yes,648
+2022-06-13,Chicken Caesar Salad,$42.52 ,Smokey's BBQ,Normal,16,No,600
+2023-10-11,Chicken Caesar Salad,$43.36 ,Mama Mia's Kitchen,Normal,22,No,646
+2022-08-18,Margherita Pizza,$38.66 ,Falafel Kingdom,Ecofriendly,16,No,499
+2023-08-04,Chicken Caesar Salad,$48.17 ,Oriental Express,Ecofriendly,27,Yes,710
+2022-08-15,Margherita Pizza,$17.42 ,Crunchy Bites,Normal,23,No,499
+2023-12-20,Margherita Pizza,$32.52 ,Mario's Pizzeria,Ecofriendly,30,Yes,630
+2023-11-01,Margherita Pizza,$49.76 ,Fresh Greens,Ecofriendly,29,No,755
+2022-10-26,Margherita Pizza,$30.61 ,Seafood Shack,Ecofriendly,15,Yes,746
+2022-08-03,Chicken Caesar Salad,$39.86 ,Bella Italia,Normal,27,Yes,511
+2023-03-26,Chicken Caesar Wrap,$37.33 ,Nonna's Kitchen,Ecofriendly,18,Yes,656
+2022-06-05,Margherita Pizza,$42.80 ,Thai Orchid,Normal,29,No,693
+2022-08-23,Chicken Caesar Salad,$17.70 ,Papa's Pizzeria,Ecofriendly,28,No,661
+2023-05-07,Margherita Pizza,$27.49 ,Big Bite Burgers,Ecofriendly,25,No,636
+2022-05-17,Chicken Caesar Salad,$44.66 ,Shawarma Express,Ecofriendly,24,No,682
+2022-02-02,Chicken Caesar Salad,$48.51 ,Wok This Way,Normal,26,Yes,518
+2022-09-20,Margherita Pizza,$44.41 ,Seafood Shack,Normal,20,Yes,568
+2023-12-14,Chicken Caesar Salad,$20.03 ,Smokey's BBQ,Normal,25,Yes,632
+2022-05-15,Chicken Caesar Salad,$37.24 ,Sakura Sushi,Normal,30,Yes,671
+2022-10-10,Chicken Caesar Salad,$36.57 ,Fresh Greens,Ecofriendly,15,No,627
+2022-07-04,Chicken Caesar Salad,$17.15 ,Papa's Pizzeria,Normal,19,No,504
+2023-12-02,Chicken Caesar Salad,$27.21 ,Thai Orchid,Normal,27,Yes,893
+2023-12-20,Chicken Caesar Salad,$20.17 ,Wok This Way,Normal,30,No,585
+2022-02-18,Chicken Caesar Salad,$28.26 ,Bella Italia,Normal,16,No,751
+2022-12-19,Margherita Pizza,$50.00 ,Crunchy Bites,Normal,30,No,574
+2022-01-13,Chicken Caesar Salad,$25.59 ,Nonna's Kitchen,Ecofriendly,28,Yes,484
+2022-09-24,Margherita Pizza,$25.62 ,Mama Mia's Kitchen,Ecofriendly,24,Yes,458
+2023-10-16,Chicken Caesar Salad,$33.62 ,Falafel Kingdom,Ecofriendly,15,No,692
+2022-02-26,Margherita Pizza,$43.28 ,Mario's Pizzeria,Normal,29,Yes,579
+2023-03-15,Chicken Caesar Salad,$30.99 ,Green Leaf Grill,Ecofriendly,19,Yes,512
+2023-02-19,Chicken Caesar Salad,$40.53 ,Oriental Express,Normal,17,Yes,733
+2023-08-13,Margherita Pizza,$30.83 ,Burrito Bonanza,Normal,16,Yes,648
+2023-03-18,Margherita Pizza,$40.16 ,Shawarma Express,Ecofriendly,27,Yes,467
+2023-04-23,Margherita Pizza,$34.29 ,Tequila Bar,Ecofriendly,26,No,831
+2023-10-14,Margherita Pizza,$31.66 ,Big Bite Burgers,Normal,19,Yes,492
+2023-10-03,Margherita Pizza,$43.81 ,Seafood Shack,Normal,25,No,820
+2023-05-02,Chicken Caesar Salad,$18.07 ,Smokey's BBQ,Normal,24,Yes,851
+2022-10-22,Chicken Caesar Salad,$44.15 ,Sakura Sushi,Ecofriendly,27,Yes,654
+2022-11-24,Margherita Pizza,$15.34 ,Thai Orchid,Ecofriendly,25,No,565
+2022-05-20,Margherita Pizza,$15.32 ,Fresh Greens,Ecofriendly,23,No,642
+2023-10-06,Chicken Caesar Salad,$46.57 ,Papa's Pizzeria,Ecofriendly,18,No,661
+2023-07-17,Chicken Caesar Salad,$45.42 ,Wok This Way,Ecofriendly,16,No,589
+2023-10-21,Chicken Caesar Salad,$42.25 ,Bella Italia,Normal,24,No,555
+2023-01-16,Chicken Caesar Salad,$23.53 ,Crunchy Bites,Ecofriendly,25,No,815
+2022-04-05,Chicken Caesar Salad,$48.32 ,Nonna's Kitchen,Ecofriendly,25,Yes,609
+2022-11-19,Chicken Caesar Salad,$20.89 ,Mama Mia's Kitchen,Normal,17,Yes,549
+2022-08-13,Chicken Caesar Salad,$25.11 ,Falafel Kingdom,Ecofriendly,30,Yes,793
+2022-06-17,Margherita Pizza,$24.04 ,Mario's Pizzeria,Ecofriendly,24,Yes,524
+2022-12-09,Margherita Pizza,$37.58 ,Green Leaf Grill,Normal,30,Yes,781
+2022-07-16,Chicken Caesar Salad,$17.33 ,Oriental Express,Ecofriendly,20,Yes,828
+2023-11-25,Margherita Pizza,$42.46 ,Burrito Bonanza,Ecofriendly,19,No,788
+2023-04-28,Margherita Pizza,$49.06 ,Shawarma Express,Normal,28,No,737
+2023-10-03,Margherita Pizza,$33.01 ,Tequila Bar,Normal,17,No,882
+2023-02-27,Chicken Caesar Salad,$34.15 ,Big Bite Burgers,Ecofriendly,21,Yes,800
+2022-10-06,Chicken Caesar Salad,$22.76 ,Seafood Shack,Ecofriendly,20,No,749
+2022-07-11,Chicken Caesar Salad,$30.07 ,Smokey's BBQ,Normal,18,No,738
+2023-01-26,Chicken Fried Rice,$43.82 ,Sakura Sushi,Ecofriendly,28,No,532
+2023-01-12,Margherita Pizza,$40.64 ,Fresh Greens,Ecofriendly,20,No,745
+2022-07-05,Veggie Sushi Roll,$27.77 ,Thai Orchid,Ecofriendly,15,No,472
+2023-05-27,Margherita Pizza,$30.60 ,Papa's Pizzeria,Normal,16,No,716
+2023-04-26,Veggie Wrap,$17.72 ,Wok This Way,Ecofriendly,27,No,522
+2022-02-23,BBQ Ribs,$46.88 ,Bella Italia,Ecofriendly,21,Yes,893
+2023-06-15,Chicken Caesar Wrap,$28.54 ,Crunchy Bites,Normal,23,Yes,743
+2022-03-04,Margherita Pizza,$44.28 ,Nonna's Kitchen,Normal,28,Yes,516
+2023-10-11,Chicken Caesar Salad,$38.71 ,Mama Mia's Kitchen,Normal,24,No,705
+2022-07-25,Margherita Pizza,$42.30 ,Falafel Kingdom,Ecofriendly,15,No,764
+2022-09-12,Margherita Pizza,$41.40 ,Mario's Pizzeria,Ecofriendly,27,No,461
+2022-12-05,Chicken Parmesan,$35.20 ,Green Leaf Grill,Ecofriendly,16,Yes,840
+2022-10-17,Veggie Burger,$29.39 ,Oriental Express,Ecofriendly,30,No,887
+2022-08-24,Chicken Caesar Salad,$25.26 ,Burrito Bonanza,Ecofriendly,17,No,874
+2022-09-17,Margherita Pizza,$49.77 ,Shawarma Express,Normal,25,No,457
+2022-05-25,Margherita Pizza,$18.12 ,Tequila Bar,Normal,29,Yes,726
+2023-11-20,Margherita Pizza,$36.26 ,Big Bite Burgers,Normal,20,Yes,861
+2022-12-01,Veggie Wrap,$28.55 ,Seafood Shack,Normal,28,Yes,886
+2023-09-27,Margherita Pizza,$19.66 ,Smokey's BBQ,Ecofriendly,29,No,625
+2022-03-15,Veggie Sushi Roll,$42.88 ,Sakura Sushi,Normal,26,No,875
+2022-04-26,Chicken Caesar Wrap,$29.07 ,Fresh Greens,Normal,25,No,657
+2022-02-12,Beef Taco,$26.53 ,Thai Orchid,Normal,18,No,700
+2022-08-23,Beef Stir Fry,$47.74 ,Papa's Pizzeria,Ecofriendly,22,No,826
+2023-05-24,Margherita Pizza,$37.70 ,Wok This Way,Ecofriendly,19,Yes,758
+2022-02-08,Chicken Caesar Salad,$39.96 ,Bella Italia,Ecofriendly,30,No,655
+2023-07-04,Margherita Pizza,$24.61 ,Crunchy Bites,Normal,30,Yes,505
+2023-10-24,Margherita Pizza,$37.91 ,Nonna's Kitchen,Ecofriendly,23,Yes,880
+2023-08-18,Chicken Caesar Salad,$42.44 ,Mama Mia's Kitchen,Ecofriendly,24,Yes,583
+2023-01-12,Margherita Pizza,$15.05 ,Falafel Kingdom,Normal,20,No,694
+2022-08-26,Margherita Pizza,$41.27 ,Mario's Pizzeria,Ecofriendly,29,Yes,749
+2023-09-13,Fish Tacos,$26.11 ,Green Leaf Grill,Ecofriendly,17,No,475
+2023-06-02,BBQ Ribs,$36.85 ,Oriental Express,Normal,16,Yes,817
+2023-08-22,Margherita Pizza,$44.71 ,Burrito Bonanza,Ecofriendly,20,Yes,886
+2023-05-15,Margherita Pizza,$49.43 ,Shawarma Express,Normal,26,No,765
+2022-12-03,Margherita Pizza,$16.60 ,Tequila Bar,Normal,20,Yes,705
+2022-06-20,Margherita Pizza,$26.84 ,Big Bite Burgers,Normal,28,No,881
+2023-12-14,Chicken Caesar Salad,$24.00 ,Seafood Shack,Normal,20,Yes,557
+2023-09-09,Margherita Pizza,$48.47 ,Smokey's BBQ,Ecofriendly,16,Yes,463
+2023-06-14,Chicken Wings,$23.20 ,Sakura Sushi,Ecofriendly,15,No,635
+2023-09-23,Veggie Sushi Roll,$21.65 ,Fresh Greens,Ecofriendly,15,Yes,462
+2023-11-13,Margherita Pizza,$16.88 ,Thai Orchid,Ecofriendly,24,Yes,706
+2023-02-11,Beef Taco,$35.64 ,Papa's Pizzeria,Normal,15,No,836
+2022-11-03,Margherita Pizza,$36.86 ,Wok This Way,Ecofriendly,17,Yes,563
+2023-12-20,Margherita Pizza,$19.61 ,Bella Italia,Normal,16,Yes,603
+2023-11-05,Veggie Wrap,$26.75 ,Crunchy Bites,Ecofriendly,20,No,900
+2023-05-18,Margherita Pizza,$49.96 ,Nonna's Kitchen,Ecofriendly,27,Yes,533
+2022-03-19,Margherita Pizza,$24.26 ,Mama Mia's Kitchen,Normal,28,No,596
+2023-11-23,Beef Burrito,$21.69 ,Falafel Kingdom,Normal,22,No,885
+2023-08-14,Margherita Pizza,$37.14 ,Mario's Pizzeria,Ecofriendly,27,No,562
+2022-06-13,Margherita Pizza,$49.40 ,Green Leaf Grill,Normal,29,No,764
+2022-02-10,Margherita Pizza,$46.73 ,Oriental Express,Ecofriendly,21,Yes,858
+2022-12-13,Margherita Pizza,$27.30 ,Burrito Bonanza,Ecofriendly,16,No,853
+2022-01-16,Margherita Pizza,$15.84 ,Shawarma Express,Ecofriendly,29,No,535
+2023-05-12,Chicken Caesar Salad,$31.80 ,Tequila Bar,Normal,16,Yes,727
+2023-04-02,Chicken Caesar Salad,$35.12 ,Big Bite Burgers,Ecofriendly,20,Yes,517
+2023-10-02,Margherita Pizza,$46.39 ,Seafood Shack,Normal,26,Yes,663
+2022-06-28,Margherita Pizza,$37.76 ,Smokey's BBQ,Ecofriendly,15,Yes,645
+2023-04-13,Chicken Caesar Salad,$40.74 ,Sakura Sushi,Ecofriendly,19,Yes,822
+2023-08-02,Chicken Caesar Salad,$33.32 ,Fresh Greens,Normal,21,No,746
